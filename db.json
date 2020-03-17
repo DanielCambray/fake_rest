@@ -1,4 +1,14 @@
 {
+  "naf_codes":[
+  {
+    "code":"0111Z",
+    "description":"Culture de céréales (à l exception du riz), de légumineuses et de graines oléagineuses"
+  },
+  {
+    "code":"0112Z",
+    "description":"Culture du riz"
+  }
+],
   "posts": [
     {
       "id": 1,
